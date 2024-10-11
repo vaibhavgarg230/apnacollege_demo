@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my first Git repository
 <br>
-Author - Vaibhav Garg
+Author - Vaibhav Modi
