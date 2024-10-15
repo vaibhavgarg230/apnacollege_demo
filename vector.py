@@ -26,7 +26,7 @@ def crossProduct(vect_A, vect_B, cross_P):
 
 # Driver function
 if __name__=='__main__':
-    vect_A = [3, -5, 4]
+    vect_A = [3, -5, 2]
     vect_B = [2, 6, 5]
     cross_P = []
 
