@@ -18,9 +18,9 @@
 - When angle between them is 30, then a.b = |a||b|/2.
 
 WHAT HAVE WE LEARNT TILL NOW?
--[x] What is dot product?
--[x] How to compute it?
--[ ] Properties of dot product
+- [x] What is dot product?
+- [x] How to compute it?
+- [ ] Properties of dot product
 
 **Dot Product Properties of Vector.**
 1. **Property 1:** Dot product of two vectors is commutative i.e. a.b = b.a = ab cos θ.
